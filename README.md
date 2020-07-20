@@ -12,10 +12,9 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-gray?style=plastic&logo=twitter)](https://twitter.com/iricigor)
 [![Wikipedia](https://img.shields.io/badge/-Wikipedia-gray?style=plastic&logo=wikipedia)](https://en.wikipedia.org/wiki/User:Iricigor)
 
-
+<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iricigor.visitor-badge)
-
-
+-->
 
 <!--
 **iricigor/iricigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
