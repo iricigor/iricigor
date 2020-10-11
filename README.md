@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-gray?style=plastic&logo=linkedin)](https://www.linkedin.com/in/iricigor/)
 [![Twitter](https://img.shields.io/badge/-Twitter-gray?style=plastic&logo=twitter)](https://twitter.com/iricigor)
 [![Wikipedia](https://img.shields.io/badge/-Wikipedia-gray?style=plastic&logo=wikipedia)](https://en.wikipedia.org/wiki/User:Iricigor)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-gray?style=plastic&logo=stack-overflow)](https://stackoverflow.com/users/3425553/igor)
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iricigor.visitor-badge)
