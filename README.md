@@ -16,7 +16,7 @@
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iricigor.visitor-badge)
 -->
-
+![visitors](https://img.shields.io/endpoint?style=plastic&url=https://ii-counter.azurewebsites.net/api/counter)
 <!--
 **iricigor/iricigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
