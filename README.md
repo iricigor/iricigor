@@ -3,7 +3,7 @@
 - :serbia: I was born in Prijepolje, Serbia 
 - :czech_republic: I live in the Prague, Czechia 
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning F#
 - 💬 Ask me about PowerShell _(I :heart: PowerShell !)_
 
 ### See also some of my other pages
@@ -13,9 +13,14 @@
 [![Wikipedia](https://img.shields.io/badge/-Wikipedia-gray?style=plastic&logo=wikipedia)](https://en.wikipedia.org/wiki/User:Iricigor)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-gray?style=plastic&logo=stack-overflow)](https://stackoverflow.com/users/3425553/igor)
 
-<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iricigor.visitor-badge)
--->
+
+### My GitHub Skylines
+- [2021](https://skyline.github.com/iricigor/2021)
+- [2020](https://skyline.github.com/iricigor/2020)
+- [2019](https://skyline.github.com/iricigor/2019)
+- [2018](https://skyline.github.com/iricigor/2018)
+
 
 <!--
 **iricigor/iricigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
