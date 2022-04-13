@@ -13,7 +13,9 @@
 [![Wikipedia](https://img.shields.io/badge/-Wikipedia-gray?style=plastic&logo=wikipedia)](https://en.wikipedia.org/wiki/User:Iricigor)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-gray?style=plastic&logo=stack-overflow)](https://stackoverflow.com/users/3425553/igor)
 
+<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iricigor.visitor-badge)
+-->
 
 ### My GitHub Skylines
 - [2021](https://skyline.github.com/iricigor/2021)
