@@ -3,7 +3,6 @@
 - :serbia: I was born in Prijepolje, Serbia 
 - :czech_republic: I live in the Prague, Czechia 
 
-- 🌱 I’m currently learning F#
 - 💬 Ask me about PowerShell _(I :heart: PowerShell !)_
 
 ### See also some of my other pages
