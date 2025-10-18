@@ -17,10 +17,10 @@
 -->
 
 ### My GitHub Skylines
-- [2021](https://skyline.github.com/iricigor/2021)
-- [2020](https://skyline.github.com/iricigor/2020)
-- [2019](https://skyline.github.com/iricigor/2019)
-- [2018](https://skyline.github.com/iricigor/2018)
+- [2021](https://www.skyline3d.in/iricigor?endDate=2021-12-31)
+- [2020](https://www.skyline3d.in/iricigor?endDate=2020-12-31)
+- [2019](https://www.skyline3d.in/iricigor?endDate=2019-12-31)
+- [2018](https://www.skyline3d.in/iricigor?endDate=2018-12-31)
 
 
 <!--
